@@ -4,19 +4,6 @@ A new Flutter project.
 
 ## Work with github
 
-### 1. How to name PR:
-
-- PR name is: [Trello-ticket-name]/[Trello-ticket-code]
-- For example: PR for https://trello.com/c/Y4wuR9LH/2-ui-welcome-screen has name: UI-welcome-screen/Y4wuR9LH
-
-### 2. How to write PR:
-
-- Please checkout ./github/PULL_REQUEST_TEMPLATE.md
-
-### 3. How to name branch:
-
-- UI/splash-screen
-
 ## Getting Started with the code
 
 ### 1. How to navigate to new screen
@@ -71,5 +58,4 @@ For size optimize
 
 ### Install mock server and run:
 
-- dart pub global activate conduit
 - make run_mock_server
